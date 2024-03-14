@@ -2,22 +2,22 @@
     {
       "id": 87452,
       "cover": "https://i.ibb.co/j565JRZ/development-with-abstract-background.jpg",
-      "title": "The Secret Garden",
-      "author": "Emily Davidson",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Rayhan rafi",
       "author_img": "https://i.ibb.co/MGN2B60/copy.jpg",
       "posted_date": "2024-03-10",
       "reading_time": 45,
-      "hashtags": ["#fiction", "#classics", "#gardens"]
+      "hashtags": ["#Programmer", "#adventure"]
     },
     {
       "id": 36251,
       "cover": "https://i.ibb.co/j565JRZ/development-with-abstract-background.jpg",
-      "title": "Galactic Explorations",
+      "title": "How to get your first job as a self-taught programmer",
       "author": "Samuel Brooks",
       "author_img": "https://i.ibb.co/MGN2B60/copy.jpg",
       "posted_date": "2024-03-09",
       "reading_time": 80,
-      "hashtags": ["#scifi", "#adventure", "#space"]
+      "hashtags": ["#Programmer", "#adventure"]
     },
     {
       "id": 98654,
@@ -27,7 +27,7 @@
       "author_img": "https://i.ibb.co/MGN2B60/copy.jpg",
       "posted_date": "2024-03-08",
       "reading_time": 50,
-      "hashtags": ["#fantasy", "#magic", "#nature"]
+      "hashtags": ["#Programmer", "#adventure"]
     },
     {
       "id": 23598,
