@@ -25,7 +25,7 @@ function App() {
   return (
     <>
     <Header></Header>
-    <div className='md:flex lg:flex lg:max-w-7xl lg:mx-auto mx-[10%]'>
+    <div className='flex flex-col-reverse lg:flex-row md:flex-row md:flex lg:flex lg:max-w-7xl lg:mx-auto mx-[10%]'>
     <Blogs handleAddBookmarks={handleAddBookmarks} handleMarkAsRead={handleMarkAsRead}></Blogs>
     <Bookmarks bookmarks={bookmarks} readingTime = {readingTime}></Bookmarks>
     </div>
